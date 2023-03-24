@@ -1,0 +1,11 @@
+/* Banner */
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner img {
+    max-width: 600px;
+    width: 100%;
+}
